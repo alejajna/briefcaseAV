@@ -14,3 +14,8 @@
 .login {
     text-align: center;
 }
+
+.logoAV {
+display: flex;
+margin-left: 50%;
+}
